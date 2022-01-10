@@ -8,4 +8,4 @@ class Jekyll::PostReader
     def read_drafts(dir)
       read_publishable(dir, "_drafts", /.*\.markdown$/)
     end
-  end
+end
