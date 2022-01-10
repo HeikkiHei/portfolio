@@ -18,11 +18,11 @@ people:
       url: https://github.com/HeikkiHei
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-  social:
-    - title: twitter
-      url: https://twitter.com/HeikkiHei
-    - title: github
-      url: https://github.com/HeikkiHei
+social:
+  - title: twitter
+    url: https://twitter.com/HeikkiHei
+  - title: github
+    url: https://github.com/HeikkiHei
 
 # Postal address (add as many lines as necessary)
 # address:
