@@ -28,8 +28,7 @@ social:
 # address:
 #  - line: 3481 Melrose Place
 #  - line: Beverly Hills, CA 90210
-plugins:
-  - no-date
+
 # Build settings
 markdown: kramdown
 permalink: pretty
