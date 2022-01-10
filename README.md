@@ -27,4 +27,5 @@ Images are in '/img/team/'
 View this jekyll theme in action [here](https://heikkihei.github.io/portfolio/)
 
 =========
+
 For more details, read [documentation](http://jekyllrb.com/)
