@@ -4,8 +4,8 @@ subtitle: MOOC Courses in computer science
 layout: default
 modal-id: 1
 date: 2020-12-01
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: tmc.jpg
+thumbnail: tmc-thumbnail.jpg
 alt: image-alt
 project-date: December 2020
 client: Centria University of Applied Sciences
