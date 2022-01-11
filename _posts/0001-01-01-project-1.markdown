@@ -11,6 +11,6 @@ project-date: December 2020
 client: Centria University of Applied Sciences
 client-url: https://centria.fi
 category: Courses
-description: Here I need to add project info.
+description: I have developed open courses for Centria University of Applied Sciences. The courses include basics of programming and software development. The courses use Test My Code (TMC) testing environment for exercise checking. TMC enables gamification of course results, gives instant feedback and scoring to the students and enables the scalability of the course from 0 to almost infinity. The courses are developed for degree students, but are also published in Open University as MOOCs, as open knowledge courses.
 
 ---
