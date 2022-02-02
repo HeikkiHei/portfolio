@@ -2,15 +2,15 @@ url: https://heikkihei.github.io
 baseurl: /portfolio/
 
 # Site settings
-title: My Portfolio
-description: "This is my portfolio. Nothing to see here."
+title: Mun portfolio.
+description: "Hajaantukaa, täällä ei ole mitään nähtävää."
 
 
 # Team names, titles and social links
 people:
 - name: Heikki Ahonen
   pic: 1
-  position: Lecturer, Information and Communication Technology
+  position: Tietotekniikan lehtori.
   social:
     - title: twitter
       url: https://twitter.com/HeikkiHei
