@@ -1,0 +1,15 @@
+---
+title: HOPS ja portfolio
+subtitle: Tampereen ammatillinen opettajakorkeakoulu
+layout: default
+modal-id: 11
+date: 2022-01-01
+img: tamk.jpg
+thumbnail: tamk-thumbnail.jpg
+alt: image-alt
+project-date: Lukuvuosi 2021-2022
+client: Tampereen ammatillinen opettajakorkeakoulu
+client-url: https://www.tuni.fi/fi/tule-opiskelemaan/ammatillinen-opettajankoulutus
+category: Kurssit
+description: 'Kurssin aikana loin tämän portfolion jota nyt katselet. Komea, eikö?'
+---

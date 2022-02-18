@@ -1,0 +1,15 @@
+---
+title: Opettaja yhteiskunnallisena toimijana ja vaikuttajana
+subtitle: Tampereen ammatillinen opettajakorkeakoulu
+layout: default
+modal-id: 8
+date: 2022-01-01
+img: tamk.jpg
+thumbnail: tamk-thumbnail.jpg
+alt: image-alt
+project-date: Kevät 2022
+client: Tampereen ammatillinen opettajakorkeakoulu
+client-url: https://www.tuni.fi/fi/tule-opiskelemaan/ammatillinen-opettajankoulutus
+category: Kurssit
+description: 'Suoritin kurssin AHOToimalla keväällä 2022.'
+---

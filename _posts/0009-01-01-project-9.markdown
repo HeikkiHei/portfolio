@@ -1,0 +1,15 @@
+---
+title: Opiskelijoiden hyvinvointi ja tuki
+subtitle: Tampereen ammatillinen opettajakorkeakoulu
+layout: default
+modal-id: 9
+date: 2022-01-01
+img: tamk.jpg
+thumbnail: tamk-thumbnail.jpg
+alt: image-alt
+project-date: Kevät 2022
+client: Tampereen ammatillinen opettajakorkeakoulu
+client-url: https://www.tuni.fi/fi/tule-opiskelemaan/ammatillinen-opettajankoulutus
+category: Kurssit
+description: 'Kurssin aikana tutustuin erilaisiin oppimisvaikeuksiin ja sitä myötä myös erilaisiin tukimuotoihin. Kurssin aikana tehtiin ryhmätyönä työkirja joka toimii omassa työelämässä apuna tukitilanteissa.'
+---

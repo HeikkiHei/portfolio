@@ -1,0 +1,15 @@
+---
+title: Tulevaisuuden oppiminen ja koulutus
+subtitle: Tampereen ammatillinen opettajakorkeakoulu
+layout: default
+modal-id: 10
+date: 2022-01-01
+img: tamk.jpg
+thumbnail: tamk-thumbnail.jpg
+alt: image-alt
+project-date: Syksy 2021
+client: Tampereen ammatillinen opettajakorkeakoulu
+client-url: https://www.tuni.fi/fi/tule-opiskelemaan/ammatillinen-opettajankoulutus
+category: Kurssit
+description: 'Kurssin aikana visioitiin tulevaisuuden koulutuksesta ja laadittiin oma tulevaisuuden opettamisen suunnitelma ryhmätyönä. Meidän ryhmämme keskittyi jatkuvaan oppimiseen ja digitalisaatioon.'
+---

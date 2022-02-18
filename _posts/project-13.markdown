@@ -2,7 +2,7 @@
 title: Opettajan digitaalinen perusosaaminen
 subtitle: Tampereen ammatillinen opettajakorkeakoulu
 layout: default
-modal-id: 7
+modal-id: 13
 date: 2021-12-01
 img: tamk.jpg
 thumbnail: tamk-thumbnail.jpg
