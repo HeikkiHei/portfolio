@@ -11,5 +11,5 @@ project-date: Kevät 2022
 client: Tampereen ammatillinen opettajakorkeakoulu
 client-url: https://www.tuni.fi/fi/tule-opiskelemaan/ammatillinen-opettajankoulutus
 category: Kurssit
-description: 'Tein harjoitteluni opetusnäytteenä. Harjoittelua varten laadin dokumentaationa luentosuunnitelman.'
+description: 'Tein harjoitteluni opetusnäytteenä. Harjoittelua varten laadin dokumentaationa luentosuunnitelman suunnittelutaulukkoon ja reflektoin omaa osaamistani.'
 ---

@@ -11,5 +11,5 @@ project-date: Kevät 2022
 client: Tampereen ammatillinen opettajakorkeakoulu
 client-url: https://www.tuni.fi/fi/tule-opiskelemaan/ammatillinen-opettajankoulutus
 category: Kurssit
-description: 'Suoritin kurssin AHOToimalla keväällä 2022.'
+description: 'Suoritin kurssin AHOToimalla keväällä 2022. Aiheet olivat minulle entuudestaan tuttuja, joten koin luonnolliseksi suorittaa kurssin hyväksilukuna.'
 ---
