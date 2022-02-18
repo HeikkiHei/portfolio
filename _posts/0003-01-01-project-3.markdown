@@ -1,0 +1,15 @@
+---
+title: Kasvatustiede ja työelämä
+subtitle: Tampereen ammatillinen opettajakorkeakoulu
+layout: default
+modal-id: 3
+date: 2022-01-01
+img: tamk.jpg
+thumbnail: tamk-thumbnail.jpg
+alt: image-alt
+project-date: Kevät 2022
+client: Tampereen ammatillinen opettajakorkeakoulu
+client-url: https://www.tuni.fi/fi/tule-opiskelemaan/ammatillinen-opettajankoulutus
+category: Kurssit
+description: 'Osallistuin kasvatustiede ja työelämä -kurssille keväällä 2022. Kurssin aikana tutustuin työelämälähtöiseen opettamiseen tarkemmin. Omaa kokemusta aiheesta oli jo ennestään, sillä olen esimerkiksi toiminut työelämän edustajana harjoitteluohjaajana. Kurssin aikana tuli pohdittua myös omaa ammatti-identiteettiä, ja siihen pohdintaan varmasti palaan myöhemminkin.'
+---

@@ -1,0 +1,15 @@
+---
+title: Kasvatustiede ja kasvatuksen perusteet
+subtitle: Tampereen ammatillinen opettajakorkeakoulu
+layout: default
+modal-id: 2
+date: 2021-09-01
+img: tamk.jpg
+thumbnail: tamk-thumbnail.jpg
+alt: image-alt
+project-date: Syksy 2021
+client: Tampereen ammatillinen opettajakorkeakoulu
+client-url: https://www.tuni.fi/fi/tule-opiskelemaan/ammatillinen-opettajankoulutus
+category: Kurssit
+description: 'Osallistuin kasvatustieteen peruskurssille syksyllä 2021. Kurssin aikana sain syvennettyä omaa osaamistani. Erityisesti teoriapohja vahvistui huomattavasti. Huomasin tehneeni ainakin joitain asioita jo ennestään pedagogisesti oikein, mutta nyt sain myös teoreettista pohjaa sille mitä olen tekemässä.'
+---
