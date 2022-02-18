@@ -1,0 +1,15 @@
+---
+title: Opetus- ja ohjausmenetelmät ammatillisessa koulutuksessa
+subtitle: Tampereen ammatillinen opettajakorkeakoulu
+layout: default
+modal-id: 5
+date: 2021-12-01
+img: tamk.jpg
+thumbnail: tamk-thumbnail.jpg
+alt: image-alt
+project-date: Syksy 2021
+client: Tampereen ammatillinen opettajakorkeakoulu
+client-url: https://www.tuni.fi/fi/tule-opiskelemaan/ammatillinen-opettajankoulutus
+category: Kurssit
+description: 'Suoritin kurssin AHOToimalla syksyllä 2021. Kurssin aiheet olivat jo ennestään tuttuja, mutta silti hyväksilukuhakemusta tehdessäkin tuntui, että aiheen kertaus oli ihan hyvästä.'
+---
