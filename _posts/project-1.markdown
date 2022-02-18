@@ -3,7 +3,7 @@ title: TMC-kurssi Centrialle
 subtitle: MOOC-kurssi tietotekniikassa
 layout: default
 modal-id: 1
-date: 2020-12-01
+date: 2021-12-01
 img: tmc.jpg
 thumbnail: tmc-thumbnail.jpg
 alt: image-alt

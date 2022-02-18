@@ -3,7 +3,7 @@ title: HOPS ja portfolio
 subtitle: Tampereen ammatillinen opettajakorkeakoulu
 layout: default
 modal-id: 11
-date: 2022-01-01
+date: 2021-12-01
 img: tamk.jpg
 thumbnail: tamk-thumbnail.jpg
 alt: image-alt
