@@ -11,5 +11,5 @@ project-date: Kevät 2022
 client: Tampereen ammatillinen opettajakorkeakoulu
 client-url: https://www.tuni.fi/fi/tule-opiskelemaan/ammatillinen-opettajankoulutus
 category: Kurssit
-description: 'Tein harjoitteluni opetusnäytteenä. Harjoittelua varten laadin dokumentaationa luentosuunnitelman suunnittelutaulukkoon ja reflektoin omaa osaamistani.'
+description: 'Tein harjoitteluni opetusnäytteenä. Harjoittelua varten laadin dokumentaationa luentosuunnitelman suunnittelutaulukkoon ja reflektoin omaa osaamistani. Harjoittelussa tuli selkeästi esiin jo joitain tiedostamiani kehittämiskohteita kuten puhenopeus ja ajoittainen kiireen tuntu luennoidessa, mutta toisaalta myös lisää opittavaa. Interaktiossa opiskelijoiden kanssa on parannettavaa, samoin kuin opiskelijoiden aktivoinnissa. Perinteinen tapani kysyä "onko jotain kysyttävää" on ehkä toimiva massaluennoilla, mutta pienessä ryhmässä on parempi kysyä aiheeseen liittyviä kysymyksiä, jolloin kynnys vastata on pienempi. Sain harjoittelusta hyvää palautetta, mutta myös hyvää kokemusta, ja näiden avulla voin kehittyä paremmaksi opettajaksi.'
 ---
